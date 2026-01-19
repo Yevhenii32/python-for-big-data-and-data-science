@@ -1,0 +1,1 @@
+print("Yevhenii Kovalenko,ІПЗ група 3")
